@@ -1,0 +1,115 @@
+{
+  "attachment": {
+    "clickToDownload": "Klikk for å laste ned",
+    "noAttachment": "Det er ingen vedlegg"
+  },
+  "bookmark": {
+    "noBookmark": "Det er ingen bokmerker"
+  },
+  "core": {
+    "askingPassword": {
+      "requirePasswordToOpen": "Dette dokumentet er passordbeskyttet.",
+      "submit": "Send inn"
+    },
+    "wrongPassword": {
+      "submit": "Send inn",
+      "tryAgain": "Passordet er feil. Prøv igjen."
+    },
+    "pageLabel": "Side {{pageIndex}}"
+  },
+  "defaultLayout": {
+    "attachment": "Vedlegg",
+    "bookmark": "Bokmerker",
+    "thumbnail": "Miniatyrbilder"
+  },
+  "download": {
+    "download": "Last ned"
+  },
+  "drop": {
+    "dragDropFile": "Dra og slipp en PDF-fil her"
+  },
+  "fullScreen": {
+    "enterFullScreen": "Fullskjerm",
+    "exitFullScreen": "Avslutt fullskjerm"
+  },
+  "localeSwitcher": {
+    "switchLocale": "Bytt språk"
+  },
+  "open": {
+    "openFile": "Åpne fil"
+  },
+  "pageNavigation": {
+    "enterPageNumber": "Skriv inn sidenummeret for å navigere til",
+    "goToFirstPage": "Første side",
+    "goToLastPage": "Siste side",
+    "goToNextPage": "Neste side",
+    "goToPreviousPage": "Forrige side"
+  },
+  "print": {
+    "cancel": "Avbryt",
+    "close": "Lukk",
+    "disallowPrint": "Dette dokumentet er beskyttet mot utskrift.",
+    "preparingDocument": "Forbreder dokumentet for utskrift. Vennligst vent...",
+    "print": "Print"
+  },
+  "properties": {
+    "author": "Forfatter",
+    "close": "Lukk",
+    "creationDate": "Opprettelsesdato",
+    "creator": "Skaper",
+    "fileName": "Filnavn",
+    "fileSize": "Filstørrelse",
+    "keywords": "Nøkkelord",
+    "modificationDate": "Endringsdato",
+    "pageCount": "Antall sider",
+    "pdfProducer": "PDF produsent",
+    "pdfVersion": "PDF versjon",
+    "showProperties": "Vis egenskaper",
+    "subject": "Emne",
+    "title": "Titel"
+  },
+  "rotate": {
+    "rotateBackward": "Roter mot klokken",
+    "rotateForward": "Rotere med klokken"
+  },
+  "scrollMode": {
+    "dualPage": "Dobbel side",
+    "dualPageCover": "Dobbel side med forside",
+    "horizontalScrolling": "Horisontal rulling",
+    "pageScrolling": "Side rulling",
+    "singlePage": "Enkel side",
+    "verticalScrolling": "Vertikal rulling",
+    "wrappedScrolling": "Innpakket rulling"
+  },
+  "search": {
+    "close": "Lukk",
+    "enterToSearch": "Trykk Enter for å søke",
+    "matchCase": "Søkeresulat",
+    "nextMatch": "Neste treff",
+    "previousMatch": "Forrige treff",
+    "search": "Søk",
+    "wholeWords": "Hele ordet"
+  },
+  "selectionMode": {
+    "handTool": "Handverktøy",
+    "textSelectionTool": "Tekstutvalgsverktøy"
+  },
+  "theme": {
+    "switchDarkTheme": "Bytt til mørkt tema",
+    "switchLightTheme": "Bytt til lyst tema"
+  },
+  "thumbnail": {
+    "thumbnailLabel": "Miniatyrbilde for side {{pageIndex}}"
+  },
+  "toolbar": {
+    "moreActions": "Flere handlinger"
+  },
+  "zoom": {
+    "actualSize": "Faktisk størrelse",
+    "pageFit": "Tilpass side",
+    "pageWidth": "Sidebredde",
+    "zoomDocument": "Zoom dokument",
+    "zoomIn": "Zoom inn",
+    "zoomOut": "Zoom ut"
+  }
+}
